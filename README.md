@@ -1,2 +1,6 @@
 # 1erRepo
 1er Repo
+INIT
+COMMIT 
+ADD
+PUSH
